@@ -101,10 +101,11 @@
 
 <br/>  
 
+
 <div align="center">
-            <a href="https://ko-fi.com/https://ko-fi.com/qosmos" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/sonithegreat" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
             </a></div>
