@@ -81,9 +81,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qosmostheq&show_icons=true&count_private=true&hide_border=true" align="center" /> 
 <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qosmostheq&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"> <br></div> 
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
