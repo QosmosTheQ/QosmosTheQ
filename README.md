@@ -1,7 +1,7 @@
 ### <div align="center">I'm Q, a student freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [QSS (css framework)](https://github.com/QosmosTheQ/QSS) ✍️  
+- 🔭 I’m currently working on AI's✍️  
   
 
 - 🌱 I’m currently learning C++ 🧠  
